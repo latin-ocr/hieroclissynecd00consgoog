@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hieroclissynecd00consgoog_0009.png"; bbox 0 0 2656 3892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 255 1327 1064 1492">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 255 1327 1064 1492">
+     <span class='ocr_line' id='line_1_1' title="bbox 255 1327 1064 1492; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 255 1327 1064 1492; x_wconf 74' lang='lat' dir='ltr'>HENRIOO·GELZER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 413 1709 904 1776">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 413 1709 904 1776">
+     <span class='ocr_line' id='line_1_2' title="bbox 413 1709 904 1776; baseline 0.002 -1"><span class='ocrx_word' id='word_1_2' title='bbox 413 1709 722 1776; x_wconf 83' lang='lat' dir='ltr'><strong>PRAEOEPTORI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 740 1745 748 1761; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 764 1709 904 1776; x_wconf 81' lang='lat' dir='ltr'>AMICO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 555 1959 765 2005">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 555 1959 765 2005">
+     <span class='ocr_line' id='line_1_3' title="bbox 555 1959 765 2005; baseline -0.005 0"><span class='ocrx_word' id='word_1_5' title='bbox 555 1959 765 2005; x_wconf 84' lang='lat' dir='ltr'><strong>D·I)·L·M</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 318 2177 1002 2257">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 318 2177 1002 2257">
+     <span class='ocr_line' id='line_1_4' title="bbox 318 2177 1002 2257; baseline -0.001 0"><span class='ocrx_word' id='word_1_6' title='bbox 318 2187 612 2257; x_wconf 73' lang='lat' dir='ltr'><strong>AvovsTvs·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 634 2177 1002 2257; x_wconf 81' lang='lat' dir='ltr'><strong>BVROKHARDT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1332 3892">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1332 3892">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1332 3892; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1332 3892; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
